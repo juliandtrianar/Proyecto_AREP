@@ -31,7 +31,7 @@ son el resultado de una transformación PCA, para poder proteger la confidencial
 tiempo transcurrido desde la primera transacción, y la función Monto contiene el monto de la transacción. La variable de respuesta Clase, es 1 en el caso de fraude y 0 en caso contrario.
 
 ### Vídeo funcionamiento:
-https://github.com/juliandtrianar/Proyecto_AREP/blob/464deeff867937056c748776d9034a5022f0466b/prototipo.mp4
+https://github.com/juliandtrianar/Proyecto_AREP/blob/f02dcc7f1473704f0971b6145373b29877a96a2f/prototipo.mp4
 
 ## Autor
 
